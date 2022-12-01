@@ -1,3 +1,2 @@
 # FixDS_StoreCrash
-Backport the fix of DS_Store crash in minecraft forge to 1.18.2
-(https://github.com/MinecraftForge/MinecraftForge/issues/8413)
+Fix .DS_Store:sounds.json crash caused by annoying .DS_Store file by MACOS
