@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.github.sandtechnology.fixds_store.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "fixds_store.refmap.json",
+  "mixins": [],
+  "client": [
+    "MixinPathResourcePack"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
