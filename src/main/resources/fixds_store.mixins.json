@@ -6,7 +6,8 @@
   "refmap": "fixds_store.refmap.json",
   "mixins": [],
   "client": [
-    "MixinPathResourcePack"
+    "MixinPathResourcePack",
+    "MixinMultiPackResourceManager"
   ],
   "injectors": {
     "defaultRequire": 1
